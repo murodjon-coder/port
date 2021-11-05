@@ -1,0 +1,1 @@
+"use strict";function _classCallCheck(a,b){if(!(a instanceof b))throw new TypeError("Cannot call a class as a function")}var b="men",ab=["biz"].concat(),Siz=function a(b){_classCallCheck(this,a),this.obj=b};new Siz("sen");var a=function(){console.log("sa")};

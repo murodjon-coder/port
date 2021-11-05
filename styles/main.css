@@ -1,0 +1,43 @@
+.nav {
+  color: #dab6b6;
+  background: #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center
+}
+
+.nav__list {
+  background-color: #000
+}
+
+.nav__list li {
+  font-size: 15px
+}
+
+h2 {
+  color: green;
+  background: yellow
+}
+
+@media (max-width: 585px) {
+  p {
+    text-decoration: none
+  }
+
+  button {
+    outline: none
+  }
+}
+
+@media (max-width: 560px) {
+  .nav h1 {
+    background-color: red
+  }
+
+  a {
+    text-decoration: none
+  }
+}
